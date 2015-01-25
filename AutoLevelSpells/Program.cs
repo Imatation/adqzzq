@@ -361,7 +361,7 @@ namespace AutoLevelSpells
                 case "Veigar":
                     sequence = new[] { 1, 3, 1, 2, 1, 4, 2, 2, 2, 2, 4, 3, 1, 1, 3, 4, 3, 3 };
                     break;
-                case "VelKoz":
+                case "Vel'Koz":
                     sequence = new[] { 1, 2, 3, 1, 1, 4, 1, 2, 1, 2, 4, 2, 2, 3, 3, 4, 3, 3 };
                     break;
                 case "Vi":
